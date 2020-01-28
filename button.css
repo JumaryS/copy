@@ -2,19 +2,19 @@
     padding: 10px;
     font-size: 17px;
     border: 1px solid grey;
-    float: left;
+    text-align: center;
     width: 80%;
     background: #f1f1f1;
   }
   
   .searching button {
-    float: left;
+    text-align: center;
     width: 20%;
     padding: 10px;
-    background: #2196F3;
     color: white;
     font-size: 17px;
     border: 1px solid grey;
-    border-left: none;
     cursor: pointer;
   }
+  .buttons{text-align: center;
+  color: blueviolet;}

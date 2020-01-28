@@ -1,8 +1,4 @@
-.header-left{
-    display: block;
-    float:left;
-    flex:left;
-}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -27,4 +23,5 @@ ul {
 .header-right{
     display: block;
     float: right;
+    font-size: 12px;
 }
