@@ -1,27 +1,27 @@
 
 ul {
     list-style-type: none;
-    margin: 0;
     padding: 0;
     overflow: hidden;
     background-color:white;
-  }
-  
-  li {
+}
+
+li {
     float: left;
-  }
-  
-  li a {
+}
+
+li a {
+    
     display: block;
- color: grey;
+    color: grey;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  }
-  
+}
+li a:hover{color: turquoise;}
 
 .header-right{
-    display: block;
-    float: right;
+    margin-left: 1200px;
+    display: inline-block;
     font-size: 12px;
 }

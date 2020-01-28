@@ -1,26 +1,44 @@
-.icon {
+.icon {display: block;
     border-radius: 4px;
     padding: 5px;
     width: 30px;
 }
-.google-logo{
-    float: right;
-    height: 150px;
+
+
+.logo{
+    /* float: none; */
+    height: 100px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    margin-top: 20%;
+    margin-left: 35%;
+    margin-right: 50%;
+    width: 30%;
+}
+
+.google-logo {
+    height: 120px;
+    width: 90%;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    clear: both;
+    padding-top: 0px;
+    padding-bottom: 110px;
 }
 .searching input[type=text] {
-    height: 8px;
+    height: 4px;
     text-align: center;
     font-size: 12px;
     width: 10%;
     background: white;
 }
 
-.searching{text-align: center;
+.searching{
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 display: block;}
+.footer{text-align: center; }
+
+
